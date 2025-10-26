@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sindhu834/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sindhu834/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sindhu834/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Math
 |  |

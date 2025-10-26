@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sindhu834/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0836-race-car](https://github.com/sindhu834/leetcode-solutions/tree/master/0836-race-car) |
 ## Design
 |  |
 | ------- |

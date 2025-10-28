@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sindhu834/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/sindhu834/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0838-design-linked-list) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sindhu834/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/sindhu834/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |

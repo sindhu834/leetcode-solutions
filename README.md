@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sindhu834/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sindhu834/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0836-race-car](https://github.com/sindhu834/leetcode-solutions/tree/master/0836-race-car) |
 ## Design
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Backtracking
 |  |
@@ -167,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->

@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->

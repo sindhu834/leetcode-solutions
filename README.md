@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/sindhu834/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

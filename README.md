@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sindhu834/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Tree
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph
 |  |

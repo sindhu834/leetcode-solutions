@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sindhu834/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/sindhu834/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/sindhu834/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sindhu834/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/sindhu834/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0782-jewels-and-stones](https://github.com/sindhu834/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |

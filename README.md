@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Simulation
 |  |

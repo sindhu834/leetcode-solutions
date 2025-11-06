@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sindhu834/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [3863-power-grid-maintenance](https://github.com/sindhu834/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
+| [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack

@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/sindhu834/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sindhu834/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |

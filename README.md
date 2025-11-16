@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/sindhu834/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Array
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sindhu834/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3379-score-of-a-string](https://github.com/sindhu834/leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/sindhu834/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |

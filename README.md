@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sindhu834/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/sindhu834/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Enumeration
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search

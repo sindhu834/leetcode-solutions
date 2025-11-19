@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sindhu834/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Divide and Conquer
 |  |

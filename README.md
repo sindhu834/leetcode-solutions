@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sindhu834/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sindhu834/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0143-reorder-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sindhu834/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sindhu834/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |

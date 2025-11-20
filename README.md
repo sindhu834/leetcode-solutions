@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sindhu834/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0835-linked-list-components](https://github.com/sindhu834/leetcode-solutions/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |

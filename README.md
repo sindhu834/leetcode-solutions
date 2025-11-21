@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sindhu834/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sindhu834/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sindhu834/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Enumeration
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sindhu834/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sindhu834/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sindhu834/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |

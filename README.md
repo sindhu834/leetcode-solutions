@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sindhu834/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sindhu834/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sindhu834/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sindhu834/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/sindhu834/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/sindhu834/leetcode-solutions/tree/master/0382-linked-list-random-node) |

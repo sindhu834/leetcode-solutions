@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Divide and Conquer
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sindhu834/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
 |  |
@@ -408,11 +411,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sindhu834/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/sindhu834/leetcode-solutions/tree/master/3863-power-grid-maintenance) |

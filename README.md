@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sindhu834/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sindhu834/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sindhu834/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0072-edit-distance](https://github.com/sindhu834/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/sindhu834/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/sindhu834/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sindhu834/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sindhu834/leetcode-solutions/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/sindhu834/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sindhu834/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sindhu834/leetcode-solutions/tree/master/0097-interleaving-string) |

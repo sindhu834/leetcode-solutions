@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/sindhu834/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |

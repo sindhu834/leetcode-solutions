@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sindhu834/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sindhu834/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sindhu834/leetcode-solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sindhu834/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sindhu834/leetcode-solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sindhu834/leetcode-solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->

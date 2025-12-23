@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sindhu834/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sindhu834/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sindhu834/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sindhu834/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sindhu834/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Divide and Conquer
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |

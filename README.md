@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1172-dinner-plate-stacks](https://github.com/sindhu834/leetcode-solutions/tree/master/1172-dinner-plate-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sindhu834/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1172-dinner-plate-stacks](https://github.com/sindhu834/leetcode-solutions/tree/master/1172-dinner-plate-stacks) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [1172-dinner-plate-stacks](https://github.com/sindhu834/leetcode-solutions/tree/master/1172-dinner-plate-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Simulation
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1172-dinner-plate-stacks](https://github.com/sindhu834/leetcode-solutions/tree/master/1172-dinner-plate-stacks) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |

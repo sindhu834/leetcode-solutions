@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [0937-reorder-data-in-log-files](https://github.com/sindhu834/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
+| [0940-distinct-subsequences-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0836-race-car](https://github.com/sindhu834/leetcode-solutions/tree/master/0836-race-car) |
+| [0940-distinct-subsequences-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sindhu834/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

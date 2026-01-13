@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/sindhu834/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/sindhu834/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1172-dinner-plate-stacks](https://github.com/sindhu834/leetcode-solutions/tree/master/1172-dinner-plate-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sindhu834/leetcode-solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sindhu834/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sindhu834/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Brainteaser
 |  |

@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sindhu834/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sindhu834/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/sindhu834/leetcode-solutions/tree/master/0169-majority-element) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sindhu834/leetcode-solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/sindhu834/leetcode-solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/sindhu834/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/sindhu834/leetcode-solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sindhu834/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

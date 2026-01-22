@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sindhu834/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/sindhu834/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sindhu834/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sindhu834/leetcode-solutions/tree/master/0204-count-primes) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sindhu834/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sindhu834/leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sindhu834/leetcode-solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/sindhu834/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sindhu834/leetcode-solutions/tree/master/0089-gray-code) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sindhu834/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

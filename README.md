@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/sindhu834/leetcode-solutions/tree/master/0837-most-common-word) |
 | [0839-short-encoding-of-words](https://github.com/sindhu834/leetcode-solutions/tree/master/0839-short-encoding-of-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/sindhu834/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0860-lemonade-change](https://github.com/sindhu834/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/sindhu834/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0932-monotonic-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0932-monotonic-array) |
 | [0937-reorder-data-in-log-files](https://github.com/sindhu834/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sindhu834/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0860-lemonade-change](https://github.com/sindhu834/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [0942-di-string-match](https://github.com/sindhu834/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sindhu834/leetcode-solutions/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/sindhu834/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sindhu834/leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sindhu834/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sindhu834/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sindhu834/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sindhu834/leetcode-solutions/tree/master/0079-word-search) |

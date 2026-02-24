@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [0941-valid-mountain-array](https://github.com/sindhu834/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/sindhu834/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/sindhu834/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/sindhu834/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0939-minimum-area-rectangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
+| [0976-largest-perimeter-triangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sindhu834/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0936-stamping-the-sequence](https://github.com/sindhu834/leetcode-solutions/tree/master/0936-stamping-the-sequence) |
 | [0942-di-string-match](https://github.com/sindhu834/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1285-balance-a-binary-search-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/sindhu834/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0937-reorder-data-in-log-files](https://github.com/sindhu834/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
+| [0976-largest-perimeter-triangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/sindhu834/leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/sindhu834/leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1499-maximum-performance-of-a-team](https://github.com/sindhu834/leetcode-solutions/tree/master/1499-maximum-performance-of-a-team) |

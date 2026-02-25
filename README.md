@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/sindhu834/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0939-minimum-area-rectangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [0976-largest-perimeter-triangle](https://github.com/sindhu834/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1518-water-bottles](https://github.com/sindhu834/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1518-water-bottles](https://github.com/sindhu834/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |

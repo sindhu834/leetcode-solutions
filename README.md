@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/sindhu834/leetcode-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/sindhu834/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sindhu834/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sindhu834/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sindhu834/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sindhu834/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/sindhu834/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sindhu834/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sindhu834/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sindhu834/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sindhu834/leetcode-solutions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sindhu834/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |

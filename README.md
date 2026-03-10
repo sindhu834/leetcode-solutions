@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sindhu834/leetcode-solutions/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3100-water-bottles-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sindhu834/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sindhu834/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sindhu834/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Design
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sindhu834/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sindhu834/leetcode-solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
@@ -620,8 +624,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sindhu834/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Union-Find
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/sindhu834/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Bitmask
+|  |
+| ------- |
+| [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->

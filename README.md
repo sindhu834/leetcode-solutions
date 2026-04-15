@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sindhu834/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sindhu834/leetcode-solutions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/sindhu834/leetcode-solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sindhu834/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sindhu834/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sindhu834/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sindhu834/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sindhu834/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sindhu834/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sindhu834/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-score-of-a-string](https://github.com/sindhu834/leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window

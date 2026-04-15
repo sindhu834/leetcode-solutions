@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sindhu834/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sindhu834/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sindhu834/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sindhu834/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/sindhu834/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sindhu834/leetcode-solutions/tree/master/0169-majority-element) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -641,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->

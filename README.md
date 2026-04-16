@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sindhu834/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sindhu834/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sindhu834/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/sindhu834/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sindhu834/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sindhu834/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3453-separate-squares-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/sindhu834/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sindhu834/leetcode-solutions/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sindhu834/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/sindhu834/leetcode-solutions/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sindhu834/leetcode-solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/sindhu834/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sindhu834/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/sindhu834/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Array
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sindhu834/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/sindhu834/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sindhu834/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sindhu834/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sindhu834/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sindhu834/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |

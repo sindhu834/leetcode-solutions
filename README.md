@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/sindhu834/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/sindhu834/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/sindhu834/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sindhu834/leetcode-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sindhu834/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sindhu834/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/sindhu834/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/sindhu834/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sindhu834/leetcode-solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sindhu834/leetcode-solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3493-properties-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/3493-properties-graph) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/sindhu834/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/sindhu834/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [3493-properties-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/3493-properties-graph) |
 ## Bitmask
 |  |
@@ -660,5 +663,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/sindhu834/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [3493-properties-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/3493-properties-graph) |
 <!---LeetCode Topics End-->

@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sindhu834/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sindhu834/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sindhu834/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sindhu834/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sindhu834/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/sindhu834/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sindhu834/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/sindhu834/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
@@ -673,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/sindhu834/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [3493-properties-graph](https://github.com/sindhu834/leetcode-solutions/tree/master/3493-properties-graph) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/sindhu834/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
